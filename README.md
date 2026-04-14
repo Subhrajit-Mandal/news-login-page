@@ -19,9 +19,9 @@ This project presents a modern and minimal login page and homepage for a news pl
 - html (skeleton development)
 
 ## Preview
-<p>![Preview](https://github.com/Subhrajit-Mandal/news-login-page/commit/e22076c031cbb0133030e221bbf10965ff928806)</p>
-<p>![Preview](https://github.com/Subhrajit-Mandal/news-login-page/blob/main/Basic%20Login%20page.html)</p>
-<p>![Preview](
+<p>[Login page design](https://github.com/Subhrajit-Mandal/news-login-page/commit/e22076c031cbb0133030e221bbf10965ff928806)</p>
+<p>[Login page](https://github.com/Subhrajit-Mandal/news-login-page/blob/main/Basic%20Login%20page.html)</p>
+<p>[homepage](https://github.com/Subhrajit-Mandal/news-login-page/blob/main/home.html)
 
 
 ## Note
