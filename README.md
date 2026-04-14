@@ -20,7 +20,7 @@ This project presents a modern and minimal login page design for a news platform
 - Figma (UI/UX Design)
 
 ## Preview
-
+![Preview](https://github.com/Subhrajit-Mandal/news-login-page/commit/e22076c031cbb0133030e221bbf10965ff928806)
 
 ## Note
 This is a design prototype created to demonstrate UI/UX skills. It can be implemented using HTML and CSS for development.
