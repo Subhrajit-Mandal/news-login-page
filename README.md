@@ -19,5 +19,8 @@ This project presents a modern and minimal login page design for a news platform
 ## Tools Used
 - Figma (UI/UX Design)
 
+## Preview
+
+
 ## Note
 This is a design prototype created to demonstrate UI/UX skills. It can be implemented using HTML and CSS for development.
